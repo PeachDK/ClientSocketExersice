@@ -1,18 +1,9 @@
 ﻿'ClientSocketExersice.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'ClientSocketExersice.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\Pelle\source\repos\ClientSocketExersice\ClientSocketExersice\bin\Debug\ClientSocketExersice.exe'. Symbols loaded.
-'ClientSocketExersice.exe' (CLR v4.0.30319: ClientSocketExersice.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 Step into: Stepping over non-user code 'ClientSocketExersice.Program.<>c__DisplayClass0_0..ctor'
+'ClientSocketExersice.exe' (CLR v4.0.30319: ClientSocketExersice.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'ClientSocketExersice.exe' (CLR v4.0.30319: ClientSocketExersice.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'ClientSocketExersice.exe' (CLR v4.0.30319: ClientSocketExersice.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'ClientSocketExersice.exe' (CLR v4.0.30319: ClientSocketExersice.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'ClientSocketExersice.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'ClientSocketExersice.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\Pelle\source\repos\ClientSocketExersice\ClientSocketExersice\bin\Debug\ClientSocketExersice.exe'. Symbols loaded.
-'ClientSocketExersice.exe' (CLR v4.0.30319: ClientSocketExersice.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-Step into: Stepping over non-user code 'ClientSocketExersice.Program.<>c__DisplayClass0_0..ctor'
-'ClientSocketExersice.exe' (CLR v4.0.30319: ClientSocketExersice.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'ClientSocketExersice.exe' (CLR v4.0.30319: ClientSocketExersice.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'ClientSocketExersice.exe' (CLR v4.0.30319: ClientSocketExersice.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-The program '[10408] ClientSocketExersice.exe: Program Trace' has exited with code 0 (0x0).
-The program '[10408] ClientSocketExersice.exe' has exited with code -1073741510 (0xc000013a).
-The program '[348] ClientSocketExersice.exe: Program Trace' has exited with code 0 (0x0).
-The program '[348] ClientSocketExersice.exe' has exited with code -1073741510 (0xc000013a).
+The program '[600] ClientSocketExersice.exe: Program Trace' has exited with code 0 (0x0).
+The program '[600] ClientSocketExersice.exe' has exited with code -1073741510 (0xc000013a).
